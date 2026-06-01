@@ -1,0 +1,10 @@
+.DS_Store
+*.xcuserstate
+.build/
+DerivedData/
+*.o
+*.a
+*.class
+*.jar
+.gradle/
+build/
